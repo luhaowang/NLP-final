@@ -2,7 +2,7 @@
 
 Project Group 48 
 
-Name: Luhao Wang, Yiming Wang and Jing Qin
+Name: Luhao Wang, Yimin Wang and Jing Qin
 
 Project title: Towards A Product Recommendation System with Richer Experience: Based on Both Classification and Generative Model
 
